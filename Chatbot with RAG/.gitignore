@@ -3,3 +3,4 @@ lawenv/
 api/__pycache__/
 Retriever/__pycache__/
 Law_frontend/node_modules/
+__pycache__
