@@ -1,5 +1,8 @@
 # LawCraftsMan
 
+### To test Performance
+Open the `test_evaluation.ipynb`
+
 ### 1) Steps to use Ingestion
 
 **Step 1 :** Create and activate a virtual Environment
